@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: it17050104
+Build-Jdk: 11.0.1
+Implementation-Title: Smart Impulse First API
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.smartimpulse.springboot.quickstart
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/first-api
+Created-By: Maven Integration for Eclipse
+
